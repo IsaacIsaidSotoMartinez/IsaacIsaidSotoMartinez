@@ -47,4 +47,4 @@ Soy un desarrollador de software enfocado en el Back-End y la ingeniería de sof
 
 ## 📫 Cómo contactarme
 
-* [Portafolio o Correo](isaac.sotomtz@gmail.com)
+* [isaac.sotomtz@gmail.com]
