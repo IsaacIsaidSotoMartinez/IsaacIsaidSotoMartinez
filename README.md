@@ -2,7 +2,7 @@
 
 ### Desarrollador de Software .NET Jr. | Backend & Full Stack.
 
-Soy un desarrollador de software con experiencia en el Back-End y el desarrollo Full Stack, enfocado en soluciones web con C#, ASP.NET Core y SQL. Me apasiona crear aplicaciones eficientes, mantenibles y bien estructuradas, aplicando buenas prácticas de arquitectura y diseño.
+Soy desarrollador de software enfocado en el desarrollo backend, la construcción de APIs RESTFul, así como en el desarrollo y mantenimiento de aplicaciones empresariales. Tengo experiencia en la integración de bases de datos y el desarrollo de interfaces web. Me interesa crear soluciones eficientes, mantenibles y escalables mediante buenas prácticas de programación, diseño de software y distintas arquitecturas.
 
 ## 🛠️ Tecnologías y Herramientas
 
