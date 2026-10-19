@@ -1,36 +1,51 @@
 # Hola, soy Isaac Isaid Soto Martínez
 
-### Jr. Software Developer en TR Network
+###Desarrollador .NET Back-End y Full Stack Jr.
 
-Soy un desarrollador de software enfocado en el Back-End y la ingeniería de software. Me apasiona crear soluciones eficientes utilizando buenas prácticas de arquitectura y diseño.
+Soy un desarrollador de software con experiencia en el Back-End y el desarrollo Full Stack, enfocado en soluciones web con C#, ASP.NET Core y SQL. Me apasiona crear aplicaciones eficientes, mantenibles y bien estructuradas, aplicando buenas prácticas de arquitectura y diseño.
 
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks, Librerías y Conceptos
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-* **Stack principal:** .NET 8/9/10, ASP.NET Core, MAUI, Entity Framework Core.
-* **Diseño:** REST APIs, Clean Architecture, Vertical Slice, SOLID.
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+* **Frameworks:** ASP.NET Core, .NET Framework, Angular, React, WCF.
+* **Librerías:** Bootstrap.
+* **Arquitecturas:** API RESTful, Microservicios, SPA.
+* **Patrones de Diseño:** MVC, 3 Capas, N Capas.
 
 ### Infraestructura, Herramientas y Bases de Datos
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-* **Bases de Datos:** SQL Server, MySQL, MongoDB.
-* **Metodologías:** SCRUM.
+![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+* **Bases de Datos:** SQL Server, PostgreSQL (Neon en AWS), Oracle (PL/SQL), MySQL.
+* **Entornos de Desarrollo:** VS Code, Visual Studio Community y Profesional.
+* **Versionadores:** Git, GitHub.
+* **Metodologías:** Scrum, JIRA.
 
 ## 🚀 Proyectos y Experiencia Destacada
 
-* **Ciclos de desarrollo en CODELAND MX:** Contribución clave en proyectos como "CRASH" y "NIUX".
+* **Plataforma de control escolar (CBT N.° 2): Gestión de alumnos, docentes, grupos, calificaciones y expedientes con C#, ASP.NET Core (MVC), Angular y SQL Server.
 * **Migración Cloud:** Transformación de infraestructura pasando de AWS Lambda a C# en Azure.
-* **Rally Latinoamericano de Innovación (2024):** Equipo ganador de la competencia.
-* **Plataforma Web Institucional (2023):** Desarrollo de solución web a medida.
+* **Aplicaciones empresariales (Diltex Brands): Desarrollo y mantenimiento en C# y .NET Framework, con procedimientos en PL/SQL.
 
 ## 🌱 Actualmente aprendiendo
 
@@ -41,7 +56,6 @@ Soy un desarrollador de software enfocado en el Back-End y la ingeniería de sof
 ## ⚡ Intereses
 
 * Desarrollo Back-End
-* Machine Learning
 * Aprendizaje activo de idiomas
 * Deportes
 
