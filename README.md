@@ -1,6 +1,6 @@
 # Hola, soy Isaac Isaid Soto Martínez
 
-###Desarrollador .NET Back-End y Full Stack Jr.
+### Desarrollador de Software .NET Jr. | Backend & Full Stack.
 
 Soy un desarrollador de software con experiencia en el Back-End y el desarrollo Full Stack, enfocado en soluciones web con C#, ASP.NET Core y SQL. Me apasiona crear aplicaciones eficientes, mantenibles y bien estructuradas, aplicando buenas prácticas de arquitectura y diseño.
 
